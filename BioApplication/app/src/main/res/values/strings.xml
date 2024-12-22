@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bio</string>
+    <string name="name">Anuj Srivastava</string>
+    <string name="bio">
+<u><i><b>Anuj Srivastava</b></i></u> is a versatile software developer with expertise in Qt, Android, and cross-platform technologies.<br/>
+\n\n He has honed his skills through years of experience, tackling complex projects and delivering solutions tailored to meet diverse requirements.<br/>
+Anuj has a strong background in <b>Bluetooth communication</b>, ranging from <i>BLE</i> to <i>BT Classic</i>, and excels in implementing efficient and reliable data transmission systems.<br/>
+His work in <b>OpenGL rendering</b> includes creating visually appealing UI components like gradient-rendered gauges, animated rings, and modular speedometers.<br/>
+Anuj is also adept at integrating cutting-edge features, such as <b>custom map integrations</b> using Mapbox and Google Maps APIs.<br/>
+Beyond technical expertise, Anuj focuses on <u>performance optimization</u> and <u>user-centric design</u>, ensuring that applications are both fast and intuitive.<br/>
+His passion for innovation drives him to constantly explore new technologies and refine his craft, making him a valuable asset to any development team.<br/>
+With a commitment to excellence, Anuj strives to deliver <i>high-quality applications</i> that address real-world challenges and exceed user expectations.
+</string>
+    <string name="hobby_hint_value">Enter Your Hobby</string>
+
+
+</resources>
